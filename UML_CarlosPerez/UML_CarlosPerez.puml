@@ -26,5 +26,9 @@ class Person {
 
 }
 
+Conference --> Event
+BoardMeeting --> Event
+
+
 
 @enduml
